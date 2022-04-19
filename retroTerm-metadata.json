@@ -1,0 +1,11 @@
+{
+  "attributes": [
+    {
+      "terminal_type": "retro",
+      "value": "make"
+    }
+  ],
+  "description": "The execution of a sudo make install command in a retro terminal",
+  "image": "ipfs://QmXuQBdghAD11wUqgAmHecpHXHLhm8WXAkBjEtsCUzvjtJ",
+  "name": "Retro Terminal"
+}

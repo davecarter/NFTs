@@ -1,0 +1,12 @@
+{
+  "attributes": [
+    {
+      "animal": "panda",
+      "origin": "china",
+      "occupation": "astronaut"
+    }
+  ],
+  "description": "The proud Panda Astronaut posing before the launch premises during the mission STS-240",
+  "image": "ipfs://QmXodkxiaQiDBbkX4G5UY71kMGvbcfpocVajxVUrTySxrU",
+  "name": "The Panda Astronaut"
+}
